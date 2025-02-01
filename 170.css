@@ -41,10 +41,6 @@ body {
   margin: 20px 0;
   padding: 5px 40px;
   border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 .custom-row.visible {
   opacity: 1;
@@ -82,23 +78,8 @@ body {
   font-size: 2.0rem;
 }
 .custom-row-indp p {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .custom-row p {
   font-size: 1.8rem;
-}
-a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:visited {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:hover {
-  color: white;
-  background-color: transparent;
-  font-weight: bold;
 }
