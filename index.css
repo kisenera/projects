@@ -39,7 +39,7 @@ body {
 .custom-row-indp {
   background-color: #495057;
   margin: 20px 0;
-  padding: 5px 40px;
+  padding: 3px 100px;
   border-radius: 5px;
 }
 .custom-row.visible {
