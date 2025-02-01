@@ -39,8 +39,12 @@ body {
 .custom-row-indp {
   background-color: #495057;
   margin: 20px 0;
-  padding: 3px 100px;
+  padding: 5px 40px;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .custom-row.visible {
   opacity: 1;
