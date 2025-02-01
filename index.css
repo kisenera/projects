@@ -89,11 +89,6 @@ a:link {
   text-decoration: underline;
 
 }
-a:visited {
-  color: grey;
-  background-color: transparent;
-  text-decoration: underline;
-}
 a:hover {
   color: white;
   background-color: transparent;
